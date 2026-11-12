@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-12T09:29:33.044Z",
+  "generated_at": "2026-11-12T14:23:41.455Z",
   "items": {
     "math:34": {
       "kind": "math",
@@ -294,6 +294,17 @@
       "path": "math/0030-ml-workflow-basics",
       "first_solved_at": "2026-11-12T09:29:32.214Z",
       "last_pushed_at": "2026-11-12T09:29:32.214Z"
+    },
+    "math:354": {
+      "kind": "math",
+      "id": "354",
+      "title": "Missing-Data Mechanisms: MCAR, MAR, NMAR and the Bias of Mean Imputation",
+      "difficulty": "medium",
+      "category": "Probabilistic Machine Learning",
+      "url": "https://www.deep-ml.com/math-problems/354",
+      "path": "math/0354-missing-data-mechanisms-mcar-mar-nmar-and-the-bias-of-mean-imputation",
+      "first_solved_at": "2026-11-12T14:23:40.818Z",
+      "last_pushed_at": "2026-11-12T14:23:40.818Z"
     }
   }
 }
