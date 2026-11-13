@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-13T11:22:32.071Z",
+  "generated_at": "2026-11-13T14:07:42.772Z",
   "items": {
     "math:34": {
       "kind": "math",
@@ -370,6 +370,19 @@
       "last_pushed_at": "2026-11-13T11:22:30.912Z",
       "language": "python",
       "lines": 20
+    },
+    "problem:2177": {
+      "kind": "problem",
+      "id": "2177",
+      "title": "Automated Data Profile: Types, Missingness, Cardinality and Outliers",
+      "difficulty": "medium",
+      "category": "Data Structures",
+      "url": "https://www.deep-ml.com/problems/2177",
+      "path": "problems/2177-automated-data-profile-types-missingness-cardinality-and-outliers",
+      "first_solved_at": "2026-11-13T14:07:42.082Z",
+      "last_pushed_at": "2026-11-13T14:07:42.082Z",
+      "language": "python",
+      "lines": 161
     }
   }
 }
