@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**35** solved · 24 problems · 0 labs · 11 math
+**36** solved · 25 problems · 0 labs · 11 math
 
 ![Coverage](./coverage.svg)
 
@@ -26,6 +26,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Random Train/Validation/Test Split with Shuffling](https://www.deep-ml.com/problems/1058) | easy | 2026-11-12 | [solution](problems/1058-random-train-validation-test-split-with-shuffling) |
 | [Automated Data Profile: Types, Missingness, Cardinality and Outliers](https://www.deep-ml.com/problems/2177) | medium | 2026-11-13 | [solution](problems/2177-automated-data-profile-types-missingness-cardinality-and-outliers) |
 | [Chain Rule for Composite Functions](https://www.deep-ml.com/problems/214) | medium | 2026-10-21 | [solution](problems/0214-chain-rule-for-composite-functions) |
+| [Find Captain Redbeard's Hidden Treasure](https://www.deep-ml.com/problems/127) | medium | 2026-11-20 | [solution](problems/0127-find-captain-redbeard-s-hidden-treasure) |
 | [Gaussian Elimination for Solving Linear Systems](https://www.deep-ml.com/problems/58) | medium | 2026-10-23 | [solution](problems/0058-gaussian-elimination-for-solving-linear-systems) |
 | [Implement Gradient Descent Variants with MSE Loss](https://www.deep-ml.com/problems/47) | medium | 2026-10-22 | [solution](problems/0047-implement-gradient-descent-variants-with-mse-loss) |
 | [Implement Stratified Train-Test Split](https://www.deep-ml.com/problems/275) | medium | 2026-11-12 | [solution](problems/0275-implement-stratified-train-test-split) |
