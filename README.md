@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**37** solved · 26 problems · 0 labs · 11 math
+**38** solved · 27 problems · 0 labs · 11 math
 
 ![Coverage](./coverage.svg)
 
@@ -36,6 +36,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Mini-Batch Gradient Descent Step for Linear Regression](https://www.deep-ml.com/problems/803) | medium | 2026-10-22 | [solution](problems/0803-mini-batch-gradient-descent-step-for-linear-regression) |
 | [Numerical Gradient Checking](https://www.deep-ml.com/problems/313) | medium | 2026-10-23 | [solution](problems/0313-numerical-gradient-checking) |
 | [Partial Derivatives of Multivariable Functions](https://www.deep-ml.com/problems/215) | medium | 2026-10-21 | [solution](problems/0215-partial-derivatives-of-multivariable-functions) |
+| [Single Neuron with Backpropagation](https://www.deep-ml.com/problems/25) | medium | 2026-11-24 | [solution](problems/0025-single-neuron-with-backpropagation) |
 | [StandardScaler Fit and Transform](https://www.deep-ml.com/problems/842) | medium | 2026-11-13 | [solution](problems/0842-standardscaler-fit-and-transform) |
 | [Stochastic Gradient Descent Step for Linear Regression](https://www.deep-ml.com/problems/802) | medium | 2026-10-22 | [solution](problems/0802-stochastic-gradient-descent-step-for-linear-regression) |
 
